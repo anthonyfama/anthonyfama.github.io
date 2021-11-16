@@ -1,0 +1,61 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
+
+h1{
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+}
+
+h2{
+    font-family: 'Gilda Display', serif;
+    color:black;
+    font-size: 28px;
+    font-weight: 400;
+    background-color: turquoise;
+    padding: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+
+}
+
+ul{
+    font-family: 'Gilda Display', serif;
+    color: black;
+    font-size: 16px;
+}
+
+h3{
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(255, 38, 0);
+    font-size: 28px;
+    background-color: rgb(243, 204, 204);
+    padding: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+
+}
+
+ol{
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(245, 131, 111); 
+    font-size: 16px;
+}
+
+h4{
+    font-family: 'Bebas Neue', cursive;
+    color: teal;
+}
+
+h5{
+    font-family: 'Bebas Neue', cursive;
+    color: teal;
+}
+
+p{
+    font-family: 'Yuji Syuku', serif;
+    color: green;
+}
