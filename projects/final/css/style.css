@@ -1,0 +1,56 @@
+h1{
+    font-size: 3.9em;
+    text-transform: uppercase;
+    color:black;
+    padding: 0;
+    text-align: center;
+    background-color: rgb(183, 200, 238);
+    padding: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+p{
+    font-family: 'Arvo', serif; 
+    text-align: left; 
+}
+
+h5{
+    font-size: 2.5em;
+    text-transform: uppercase;
+    color:#e7882e;
+    text-align: center;  
+}
+
+h6{
+    font-size: 2.5em;
+    text-transform: uppercase;
+    color:#121944; 
+    text-align: center;  
+}
+
+h4{
+    font-size: 2.5em;
+    text-transform: uppercase;
+    color:#e01515;
+    text-align: center;   
+}
+
+img.degrom{
+    max-width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.data h2{
+    font-weight: bold;
+    font-size: 2.0em;
+}
+
+.data p,
+.data i{
+    font-size: 1.0em;
+}

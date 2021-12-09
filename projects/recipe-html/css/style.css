@@ -5,13 +5,13 @@ body{
 
 h1{
     font-family: 'Playfair Display', serif;
-    font-size: 50px;
+    font-size: 3em;
 }
 
 h2{
     font-family: 'Gilda Display', serif;
     color:black;
-    font-size: 28px;
+    font-size: 2em;
     font-weight: 400;
     background-color: turquoise;
     padding: 20px;
