@@ -37,13 +37,52 @@ h4{
     text-align: center;   
 }
 
-img.degrom{
-    max-width: 40%;
+img.degrompic{
+    max-width: 100%;
     display: block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: 150px;
 }
 
+img.degrom{
+    max-width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: 150px;
+}
+
+img.gerritcolepic{
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: 150px;
+}
+
+img.gerritcole{
+    max-width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: 150px;
+}
+
+img.maxscherzerpic{
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: 150px;
+}
+
+img.maxscherzer{
+    max-width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: 150px;
+}
+
+h8{
+    font-size: 1.5em;
+    font-weight: bold;
+}
 
 .data h2{
     font-weight: bold;
