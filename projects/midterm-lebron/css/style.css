@@ -1,0 +1,79 @@
+nav img {
+    margin:0 auto;
+}
+
+
+h1{
+    font-size: 3.5em;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.gshadow{
+    box-shadow: 10px 7px; 
+    color: #A8FF00;
+}
+
+p{
+    font-family: 'Roboto Mono', monospace;
+    line-height: 1.5em;
+}
+
+p.green{
+    font-size: 0.9em;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #A8FF00;
+    font-style: italic;
+    display: inline-block;
+}
+
+p.byline{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 200;
+    color: #8e8e8e;
+}
+
+a.link1{
+    color:black;
+    text-decoration: none;
+    font-weight:600;
+}
+a.link1:hover{
+    color:#A8FF00;
+}
+
+figcap{
+    font-weight:200;
+    font-size:.8em;
+    font-style:italic;
+    color:#8e8e8e;
+    padding-top:10px;
+}
+
+a.black{
+    font-family:'Roboto Mono',monospace;
+    color:white;
+    background-color:black;
+    font-weight:500;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-decoration:none;
+}
+
+p.comp.chart{
+    font-family:'Roboto Mono',monospace;
+    list-style-type: none;
+    font-size: 0.8em;
+}
+
+p.footer{
+    font-family:'Roboto Mono',monospace;
+    font-size:0.8em;
+}
+footer{
+   border-top-style:dashed;
+   border-top-color:#8e8e8e;
+   border-top-width:.2em;
+}
+
